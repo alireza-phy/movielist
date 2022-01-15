@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/movielist/static/css/main.cbbcbe35.css",
+    "main.js": "/movielist/static/js/main.60cc02e8.js",
+    "static/js/787.edd59a96.chunk.js": "/movielist/static/js/787.edd59a96.chunk.js",
+    "static/media/The dark knight.jpg": "/movielist/static/media/The dark knight.57b8bcd34cd9935800dd.jpg",
+    "static/media/Rhe good the bad the ugly.jpg": "/movielist/static/media/Rhe good the bad the ugly.ae7c75fc7e55be475398.jpg",
+    "static/media/Schindlers list.jpg": "/movielist/static/media/Schindlers list.d90515a73de9c61d494e.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/movielist/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/Pulp foction.jpg": "/movielist/static/media/Pulp foction.000da50837a5d669d475.jpg",
+    "static/media/Fight club.jpg": "/movielist/static/media/Fight club.fda1061cf4548c1db4f7.jpg",
+    "static/media/The shawshank redemption.jpg": "/movielist/static/media/The shawshank redemption.a945b4b95a9a5ec59868.jpg",
+    "static/media/Godfather.jpg": "/movielist/static/media/Godfather.3b69a4c01d3e572d1b8a.jpg",
+    "static/media/Lord of the rings.jpg": "/movielist/static/media/Lord of the rings.4c5c407cca7ec41eb6f4.jpg",
+    "static/media/Godfather II.jpg": "/movielist/static/media/Godfather II.6f69bc3478fce464f30d.jpg",
+    "static/media/12 angry men.jpg": "/movielist/static/media/12 angry men.9f87611c1bd2d41e8335.jpg",
+    "static/media/fontawesome-webfont.eot": "/movielist/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/movielist/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/bootstrap-icons.woff?": "/movielist/static/media/bootstrap-icons.38c4d2499557ae0379fd.woff",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/movielist/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/bootstrap-icons.woff2?": "/movielist/static/media/bootstrap-icons.2b56e79ae5013246de29.woff2",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/movielist/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/movielist/index.html",
+    "main.cbbcbe35.css.map": "/movielist/static/css/main.cbbcbe35.css.map",
+    "main.60cc02e8.js.map": "/movielist/static/js/main.60cc02e8.js.map",
+    "787.edd59a96.chunk.js.map": "/movielist/static/js/787.edd59a96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbbcbe35.css",
+    "static/js/main.60cc02e8.js"
+  ]
+}
