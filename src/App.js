@@ -2,7 +2,7 @@ import MovieTable from "./pages/MovieTable/MovieTable";
 import MoviePage from "./pages/MoviePage/MoviePage";
 import NavBar from "./components/Navbar/Navbar";
 
-import {Route, Routes, HashRouter} from 'react-router-dom'
+import {Route, Routes, BrowserRouter, HashRouter} from 'react-router-dom'
 import Homepage from "./pages/HomePage/Homepage";
 
 const App = () => {
