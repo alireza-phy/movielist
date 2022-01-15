@@ -1,0 +1,34 @@
+.main_Container {
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+
+.filters {
+    width: 200px;
+    height: 330px;
+    background-color: rgba(0, 141, 201, 0.05);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border: 1px solid #bbbbbb;
+    border-radius: 5px;
+    padding: 30px ;
+    align-items: center;
+}
+
+.filters div {
+    border-bottom: 1px solid #bbbbbb;
+    color: #030a40;
+    font-size: 30px;
+}
+
+.filters div:hover {
+    color: rgb(1, 48, 101);
+    cursor: pointer;
+}
+
+.movieTable {
+    width: 90%;
+}
