@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/movielist/static/css/main.3ef65261.css",
-    "main.js": "/movielist/static/js/main.1e32dbd6.js",
+    "main.css": "/movielist/static/css/main.b318ece2.css",
+    "main.js": "/movielist/static/js/main.38309cec.js",
     "static/media/The dark knight.jpg": "/movielist/static/media/The dark knight.57b8bcd34cd9935800dd.jpg",
     "static/media/Rhe good the bad the ugly.jpg": "/movielist/static/media/Rhe good the bad the ugly.ae7c75fc7e55be475398.jpg",
     "static/media/Schindlers list.jpg": "/movielist/static/media/Schindlers list.d90515a73de9c61d494e.jpg",
@@ -20,11 +20,11 @@
     "static/media/bootstrap-icons.woff2?": "/movielist/static/media/bootstrap-icons.2b56e79ae5013246de29.woff2",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/movielist/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/movielist/index.html",
-    "main.3ef65261.css.map": "/movielist/static/css/main.3ef65261.css.map",
-    "main.1e32dbd6.js.map": "/movielist/static/js/main.1e32dbd6.js.map"
+    "main.b318ece2.css.map": "/movielist/static/css/main.b318ece2.css.map",
+    "main.38309cec.js.map": "/movielist/static/js/main.38309cec.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ef65261.css",
-    "static/js/main.1e32dbd6.js"
+    "static/css/main.b318ece2.css",
+    "static/js/main.38309cec.js"
   ]
 }
