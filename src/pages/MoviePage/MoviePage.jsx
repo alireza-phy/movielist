@@ -2,6 +2,7 @@ import React, {useState} from "react";
 import './MoviePage.css'
 import {useParams} from "react-router-dom";
 import {useEffect} from "react";
+import {Link} from "react-router-dom";
 
 const MoviePage = () => {
     const params = useParams()
@@ -30,8 +31,8 @@ const MoviePage = () => {
                         <p>publish Date: {movieList.publishDate}</p>
                     </div>
                 </div>
-                <a href='/Table'>
-                    Back >> </a>
+                <Link className='backBtn' to='/Table'>
+                    Back >> </Link>
 
             < /div>
         </div>

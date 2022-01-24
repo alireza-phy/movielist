@@ -133,7 +133,7 @@ position: absolute;
     font-weight: bold;
 }
 
-.Container a {
+.backBtn {
     position: absolute;
     right: 8%;
     top: 85%;
@@ -148,7 +148,7 @@ position: absolute;
     box-shadow: 0 5px 15px rgba(3, 20, 132, 0.5);
 }
 
-.Container a:hover {
+.backBtn:hover {
     font-size: 1.6rem;
     box-shadow: 0 5px 15px rgba(37, 1, 43, 0.66);
 }
