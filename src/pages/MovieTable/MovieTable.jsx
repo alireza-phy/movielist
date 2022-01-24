@@ -16,7 +16,7 @@ const MovieTable = () => {
     const [paginateList, setPaginateList] = useState(Paginate(filter, movieList, pageSize, currentPage))
 
     useEffect(() => {
-        fetch('api/movies')
+        fetch('/api/movies')
             .then(response => response.json())
             .then(data => setMovieList(data.movies));
     }, [])

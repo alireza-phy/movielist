@@ -12,8 +12,8 @@ const App = () => {
                 <Routes>
                     <Route path='/' element={<NavBar/>}>
                         <Route index element={<Homepage/>}/>
-                        <Route path='/Table' element={<MovieTable/>}/>
-                        <Route path='/MoviePage/:id' element={<MoviePage/>}/>
+                        <Route path='Table/' element={<MovieTable/>}/>
+                        <Route path='MoviePage/:id' element={<MoviePage/>}/>
                     </Route>
                 </Routes>
             </HashRouter>

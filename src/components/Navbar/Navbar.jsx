@@ -6,9 +6,9 @@ const NavBar = () => {
         <>
             <Navbar bg="primary" variant="dark">
                 <Container>
-                    <Navbar.Brand to="https://www.imdb.com">Imdb</Navbar.Brand>
+                    <Navbar.Brand> <a style={{color:'white' , textDecoration:'none'}} href="https://www.imdb.com"> Imdb </a> </Navbar.Brand>
                     <Nav className="me-auto">
-                        <Nav.Link> <Link style={{color:'white' , textDecoration:'none'}} to="/"> Home </Link> </Nav.Link>
+                        <Nav.Link> <Link style={{color:'white' , textDecoration:'none'}} to='/'> Home </Link> </Nav.Link>
                         <Nav.Link> <Link style={{color:'white' , textDecoration:'none'}} to="/Table"> movie list </Link> </Nav.Link>
                     </Nav>
                 </Container>

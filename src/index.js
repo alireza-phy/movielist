@@ -4,9 +4,7 @@ import './index.css';
 import App from './App';
 import { makeServer } from "./Server"
 
-if (process.env.NODE_ENV === "development") {
     makeServer({ environment: "development" })
-}
 
 ReactDOM.render(
   <React.StrictMode>
