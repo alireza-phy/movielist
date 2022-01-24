@@ -21,10 +21,13 @@ export function makeServer({environment = "test"} = {}) {
             );
             this.get("/movies/:id", (schema, request) => {
                     const id = request.params.id;
-                    return schema.movies.find(id);
+                    let movieId = schema.movies.find(id)
+                if (movieId) return movieId ;
+                else
+                return new Response(404, {}, {error: `movie with this title not found`});
                 }
             );
-            return new Response(404, {}, {error: `movie with this title not found`});
+
         }
     });
 

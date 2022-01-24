@@ -45,8 +45,8 @@ body {
 }
 
 .Container .description_Card {
-    width: 800px;
-    height: 170px;
+    width: 400px;
+    /*height: 170px;*/
     margin: 0 1rem;
     font-family: 'Fanwood Text', serif;
     padding: 20px;
@@ -135,9 +135,9 @@ position: absolute;
 
 .Container a {
     position: absolute;
-    right: 9%;
+    right: 8%;
     top: 85%;
-    padding: 10px 30px;
+    padding: 5px 10px;
     margin-top: 10px;
     color: white;
     font-size: 1.5rem;
@@ -149,6 +149,6 @@ position: absolute;
 }
 
 .Container a:hover {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     box-shadow: 0 5px 15px rgba(37, 1, 43, 0.66);
 }
